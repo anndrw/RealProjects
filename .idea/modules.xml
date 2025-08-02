@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lift/Lift.iml" filepath="$PROJECT_DIR$/Lift/Lift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealProjects.iml" filepath="$PROJECT_DIR$/RealProjects.iml" />
+    </modules>
+  </component>
+</project>
