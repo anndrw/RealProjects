@@ -8,8 +8,10 @@ public class Main {
 
        while (true) {
             System.out.println("Semaforul este: " + semafor.getCuloare());
+            semafor.trecereSemaforPietoni(1);
             Thread.sleep(5000);
             semafor.schimbaStare();
+
         }
 
     }

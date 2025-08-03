@@ -22,4 +22,14 @@ public class Semafor {
     public String getCuloare() {
         return stare.getCuloare();
     }
+
+    public void trecereSemaforPietoni(int nrPersoane) {
+        if (nrPersoane > 0) {
+            if(stare.getCuloare().equals("Rosu") || stare.getCuloare().equals("Galben")) {
+                System.out.println("Pietonii nu se pot angaja in trecere.");
+            } else if (stare.getCuloare().equals("Verde")) {
+                System.out.println("Pietonii se pot angaja in trecere.");
+            }
+        }
+    }
 }
