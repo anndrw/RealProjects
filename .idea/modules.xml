@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lift/Lift.iml" filepath="$PROJECT_DIR$/Lift/Lift.iml" />
       <module fileurl="file://$PROJECT_DIR$/RealProjects.iml" filepath="$PROJECT_DIR$/RealProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Semafor/Semafor.iml" filepath="$PROJECT_DIR$/Semafor/Semafor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ticketing/Ticketing.iml" filepath="$PROJECT_DIR$/Ticketing/Ticketing.iml" />
     </modules>
   </component>
 </project>
